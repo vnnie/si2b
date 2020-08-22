@@ -1,0 +1,9 @@
+A empresa X quer fazer viagens com um carro voador que transporta pessoas, com limite de preço de até 10 dolares por viagem, por pessoa.  Elabore um sistema para esta operacao.
+
+Funcionalidades.
+
+1º O sistema deve ter uma interface para requisitar o serviço.
+2º O sistema deve ter uma pagina para acessar o aplicativo com Usuario e senha.
+3º O sistema terá um campo para configuração, perfil, sugestões e para guardar informações de pagamento.
+4º O sistema deve na pagina de pedidos de viagens, vai ter opções para ela selecionar o bairro que esteja para que o carro mais proximo esteja a sua disposição.
+5º O sistema irá emitir um alerta "sonar" aos carros que estejam proximo, assim, quando o cliente escolher o bairro a qual se encontra, não precisa ficar de olho no celular, a localização do aparelho já irá imediatamente ser utilizado para que o motorista vá até sua localização e o aparelho dele ira automaticamente autenticar com o da pessoa assim que se encontrar no mesmo local exato que ela.

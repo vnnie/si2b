@@ -1,0 +1,7 @@
+A empresa X quer fazer viagens com um carro voador que transporta pessoas, com limite de preço de até 10 dolares por viagem, por pessoa. Elabore um sistema para esta operacao.
+
+1º Os teste deverá ter um icone para o app
+2º Teste de usuario e senha para corresponder a autenticação necessaria do usuario correto.
+3º Autenticação de cartão de credito para pagamento e nome identificado pelo cpf.
+4º Teste de ativação de localização em tempo real.
+5º Teste de segurança na autenticação de aparelhos do motorista e do usuario para que não ocorra problemas de autenticação e falha na segurança.
